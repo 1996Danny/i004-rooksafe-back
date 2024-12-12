@@ -47,6 +47,7 @@ LOCAL_APPS = [
     'apps.educationContent',
     'apps.finnhub',
     'apps.yahooFinance',
+    'apps.coinGecko',
 
 ]
 

@@ -57,7 +57,7 @@ sqlparse==0.5.2
 typing_extensions==4.12.2
 tzdata==2024.2
 urllib3==2.2.3
-uwsgi
+#uwsgi      #ARIEL NO ME MATES PERO COMO AUN NO ESTAMOS EN PRODUCCION, ME TOME EL ATREVIMIENTO
 vine==5.1.0
 waitress==3.0.2
 wcwidth==0.2.13
