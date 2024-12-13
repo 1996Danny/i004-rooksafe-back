@@ -24,5 +24,5 @@ urlpatterns = [
     path('api/education/', include('apps.educationContent.urls')),
     path('finnhub/', include('apps.finnhub.urls')),
     path("yfinance/", include("apps.yahooFinance.urls")),
-    path('api/coingecko/', include('apps.coinGecko.urls')),
+    path('coingecko/', include('apps.coinGecko.urls')),
 ]
